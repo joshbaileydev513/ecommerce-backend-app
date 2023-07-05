@@ -10,11 +10,10 @@
     "seed": "node seeds/index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "type": "git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Joshua Bailey",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
